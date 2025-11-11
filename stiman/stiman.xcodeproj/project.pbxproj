@@ -1,0 +1,1004 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ECFFA4002EC32BBA002D87F0 /* stiman Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = ECFFA3FF2EC32BBA002D87F0 /* stiman Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		ECFFA3EA2EC32BBA002D87F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ECFFA3D42EC32BB1002D87F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ECFFA3DB2EC32BB1002D87F0;
+			remoteInfo = stiman;
+		};
+		ECFFA3F42EC32BBA002D87F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ECFFA3D42EC32BB1002D87F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ECFFA3DB2EC32BB1002D87F0;
+			remoteInfo = stiman;
+		};
+		ECFFA4012EC32BBA002D87F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ECFFA3D42EC32BB1002D87F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ECFFA3FE2EC32BBA002D87F0;
+			remoteInfo = "stiman Watch App";
+		};
+		ECFFA40F2EC32BBB002D87F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ECFFA3D42EC32BB1002D87F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ECFFA3FE2EC32BBA002D87F0;
+			remoteInfo = "stiman Watch App";
+		};
+		ECFFA4192EC32BBB002D87F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ECFFA3D42EC32BB1002D87F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ECFFA3FE2EC32BBA002D87F0;
+			remoteInfo = "stiman Watch App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		ECFFA4252EC32BBB002D87F0 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				ECFFA4002EC32BBA002D87F0 /* stiman Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		ECFFA3DC2EC32BB1002D87F0 /* stiman.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = stiman.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFFA3E92EC32BBA002D87F0 /* stimanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stimanTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFFA3F32EC32BBA002D87F0 /* stimanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = stimanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFFA3FF2EC32BBA002D87F0 /* stiman Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "stiman Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFFA40E2EC32BBB002D87F0 /* stiman Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "stiman Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECFFA4182EC32BBB002D87F0 /* stiman Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "stiman Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		ECFFA3DE2EC32BB1002D87F0 /* stiman */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = stiman;
+			sourceTree = "<group>";
+		};
+		ECFFA3EC2EC32BBA002D87F0 /* stimanTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = stimanTests;
+			sourceTree = "<group>";
+		};
+		ECFFA3F62EC32BBA002D87F0 /* stimanUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = stimanUITests;
+			sourceTree = "<group>";
+		};
+		ECFFA4032EC32BBA002D87F0 /* stiman Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "stiman Watch App";
+			sourceTree = "<group>";
+		};
+		ECFFA4112EC32BBB002D87F0 /* stiman Watch AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "stiman Watch AppTests";
+			sourceTree = "<group>";
+		};
+		ECFFA41B2EC32BBB002D87F0 /* stiman Watch AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "stiman Watch AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ECFFA3D92EC32BB1002D87F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3E62EC32BBA002D87F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3F02EC32BBA002D87F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3FC2EC32BBA002D87F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA40B2EC32BBB002D87F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA4152EC32BBB002D87F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ECFFA3D32EC32BB1002D87F0 = {
+			isa = PBXGroup;
+			children = (
+				ECFFA3DE2EC32BB1002D87F0 /* stiman */,
+				ECFFA3EC2EC32BBA002D87F0 /* stimanTests */,
+				ECFFA3F62EC32BBA002D87F0 /* stimanUITests */,
+				ECFFA4032EC32BBA002D87F0 /* stiman Watch App */,
+				ECFFA4112EC32BBB002D87F0 /* stiman Watch AppTests */,
+				ECFFA41B2EC32BBB002D87F0 /* stiman Watch AppUITests */,
+				ECFFA3DD2EC32BB1002D87F0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ECFFA3DD2EC32BB1002D87F0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ECFFA3DC2EC32BB1002D87F0 /* stiman.app */,
+				ECFFA3E92EC32BBA002D87F0 /* stimanTests.xctest */,
+				ECFFA3F32EC32BBA002D87F0 /* stimanUITests.xctest */,
+				ECFFA3FF2EC32BBA002D87F0 /* stiman Watch App.app */,
+				ECFFA40E2EC32BBB002D87F0 /* stiman Watch AppTests.xctest */,
+				ECFFA4182EC32BBB002D87F0 /* stiman Watch AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ECFFA3DB2EC32BB1002D87F0 /* stiman */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFFA4262EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman" */;
+			buildPhases = (
+				ECFFA3D82EC32BB1002D87F0 /* Sources */,
+				ECFFA3D92EC32BB1002D87F0 /* Frameworks */,
+				ECFFA3DA2EC32BB1002D87F0 /* Resources */,
+				ECFFA4252EC32BBB002D87F0 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ECFFA4022EC32BBA002D87F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ECFFA3DE2EC32BB1002D87F0 /* stiman */,
+			);
+			name = stiman;
+			packageProductDependencies = (
+			);
+			productName = stiman;
+			productReference = ECFFA3DC2EC32BB1002D87F0 /* stiman.app */;
+			productType = "com.apple.product-type.application";
+		};
+		ECFFA3E82EC32BBA002D87F0 /* stimanTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFFA4292EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stimanTests" */;
+			buildPhases = (
+				ECFFA3E52EC32BBA002D87F0 /* Sources */,
+				ECFFA3E62EC32BBA002D87F0 /* Frameworks */,
+				ECFFA3E72EC32BBA002D87F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ECFFA3EB2EC32BBA002D87F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ECFFA3EC2EC32BBA002D87F0 /* stimanTests */,
+			);
+			name = stimanTests;
+			packageProductDependencies = (
+			);
+			productName = stimanTests;
+			productReference = ECFFA3E92EC32BBA002D87F0 /* stimanTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		ECFFA3F22EC32BBA002D87F0 /* stimanUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFFA42C2EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stimanUITests" */;
+			buildPhases = (
+				ECFFA3EF2EC32BBA002D87F0 /* Sources */,
+				ECFFA3F02EC32BBA002D87F0 /* Frameworks */,
+				ECFFA3F12EC32BBA002D87F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ECFFA3F52EC32BBA002D87F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ECFFA3F62EC32BBA002D87F0 /* stimanUITests */,
+			);
+			name = stimanUITests;
+			packageProductDependencies = (
+			);
+			productName = stimanUITests;
+			productReference = ECFFA3F32EC32BBA002D87F0 /* stimanUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		ECFFA3FE2EC32BBA002D87F0 /* stiman Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFFA4222EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman Watch App" */;
+			buildPhases = (
+				ECFFA3FB2EC32BBA002D87F0 /* Sources */,
+				ECFFA3FC2EC32BBA002D87F0 /* Frameworks */,
+				ECFFA3FD2EC32BBA002D87F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				ECFFA4032EC32BBA002D87F0 /* stiman Watch App */,
+			);
+			name = "stiman Watch App";
+			packageProductDependencies = (
+			);
+			productName = "stiman Watch App";
+			productReference = ECFFA3FF2EC32BBA002D87F0 /* stiman Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		ECFFA40D2EC32BBB002D87F0 /* stiman Watch AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFFA42F2EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman Watch AppTests" */;
+			buildPhases = (
+				ECFFA40A2EC32BBB002D87F0 /* Sources */,
+				ECFFA40B2EC32BBB002D87F0 /* Frameworks */,
+				ECFFA40C2EC32BBB002D87F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ECFFA4102EC32BBB002D87F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ECFFA4112EC32BBB002D87F0 /* stiman Watch AppTests */,
+			);
+			name = "stiman Watch AppTests";
+			packageProductDependencies = (
+			);
+			productName = "stiman Watch AppTests";
+			productReference = ECFFA40E2EC32BBB002D87F0 /* stiman Watch AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		ECFFA4172EC32BBB002D87F0 /* stiman Watch AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ECFFA4322EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman Watch AppUITests" */;
+			buildPhases = (
+				ECFFA4142EC32BBB002D87F0 /* Sources */,
+				ECFFA4152EC32BBB002D87F0 /* Frameworks */,
+				ECFFA4162EC32BBB002D87F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ECFFA41A2EC32BBB002D87F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ECFFA41B2EC32BBB002D87F0 /* stiman Watch AppUITests */,
+			);
+			name = "stiman Watch AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "stiman Watch AppUITests";
+			productReference = ECFFA4182EC32BBB002D87F0 /* stiman Watch AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ECFFA3D42EC32BB1002D87F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2610;
+				LastUpgradeCheck = 2610;
+				TargetAttributes = {
+					ECFFA3DB2EC32BB1002D87F0 = {
+						CreatedOnToolsVersion = 26.1;
+					};
+					ECFFA3E82EC32BBA002D87F0 = {
+						CreatedOnToolsVersion = 26.1;
+						TestTargetID = ECFFA3DB2EC32BB1002D87F0;
+					};
+					ECFFA3F22EC32BBA002D87F0 = {
+						CreatedOnToolsVersion = 26.1;
+						TestTargetID = ECFFA3DB2EC32BB1002D87F0;
+					};
+					ECFFA3FE2EC32BBA002D87F0 = {
+						CreatedOnToolsVersion = 26.1;
+					};
+					ECFFA40D2EC32BBB002D87F0 = {
+						CreatedOnToolsVersion = 26.1;
+						TestTargetID = ECFFA3FE2EC32BBA002D87F0;
+					};
+					ECFFA4172EC32BBB002D87F0 = {
+						CreatedOnToolsVersion = 26.1;
+						TestTargetID = ECFFA3FE2EC32BBA002D87F0;
+					};
+				};
+			};
+			buildConfigurationList = ECFFA3D72EC32BB1002D87F0 /* Build configuration list for PBXProject "stiman" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = ECFFA3D32EC32BB1002D87F0;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = ECFFA3DD2EC32BB1002D87F0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ECFFA3DB2EC32BB1002D87F0 /* stiman */,
+				ECFFA3E82EC32BBA002D87F0 /* stimanTests */,
+				ECFFA3F22EC32BBA002D87F0 /* stimanUITests */,
+				ECFFA3FE2EC32BBA002D87F0 /* stiman Watch App */,
+				ECFFA40D2EC32BBB002D87F0 /* stiman Watch AppTests */,
+				ECFFA4172EC32BBB002D87F0 /* stiman Watch AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ECFFA3DA2EC32BB1002D87F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3E72EC32BBA002D87F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3F12EC32BBA002D87F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3FD2EC32BBA002D87F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA40C2EC32BBB002D87F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA4162EC32BBB002D87F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ECFFA3D82EC32BB1002D87F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3E52EC32BBA002D87F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3EF2EC32BBA002D87F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA3FB2EC32BBA002D87F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA40A2EC32BBB002D87F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ECFFA4142EC32BBB002D87F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		ECFFA3EB2EC32BBA002D87F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ECFFA3DB2EC32BB1002D87F0 /* stiman */;
+			targetProxy = ECFFA3EA2EC32BBA002D87F0 /* PBXContainerItemProxy */;
+		};
+		ECFFA3F52EC32BBA002D87F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ECFFA3DB2EC32BB1002D87F0 /* stiman */;
+			targetProxy = ECFFA3F42EC32BBA002D87F0 /* PBXContainerItemProxy */;
+		};
+		ECFFA4022EC32BBA002D87F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ECFFA3FE2EC32BBA002D87F0 /* stiman Watch App */;
+			targetProxy = ECFFA4012EC32BBA002D87F0 /* PBXContainerItemProxy */;
+		};
+		ECFFA4102EC32BBB002D87F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ECFFA3FE2EC32BBA002D87F0 /* stiman Watch App */;
+			targetProxy = ECFFA40F2EC32BBB002D87F0 /* PBXContainerItemProxy */;
+		};
+		ECFFA41A2EC32BBB002D87F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ECFFA3FE2EC32BBA002D87F0 /* stiman Watch App */;
+			targetProxy = ECFFA4192EC32BBB002D87F0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		ECFFA4202EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ECFFA4212EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		ECFFA4232EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = stiman;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = de.davelee.stiman;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stiman.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Debug;
+		};
+		ECFFA4242EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = stiman;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = de.davelee.stiman;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stiman.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Release;
+		};
+		ECFFA4272EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = stiman;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stiman;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		ECFFA4282EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = stiman;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stiman;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ECFFA42A2EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stimanTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/stiman.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/stiman";
+			};
+			name = Debug;
+		};
+		ECFFA42B2EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stimanTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/stiman.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/stiman";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ECFFA42D2EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stimanUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = stiman;
+			};
+			name = Debug;
+		};
+		ECFFA42E2EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.davelee.stimanUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = stiman;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ECFFA4302EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "de.davelee.stiman-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/stiman Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/stiman Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Debug;
+		};
+		ECFFA4312EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "de.davelee.stiman-Watch-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/stiman Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/stiman Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Release;
+		};
+		ECFFA4332EC32BBB002D87F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "de.davelee.stiman-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "stiman Watch App";
+				WATCHOS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Debug;
+		};
+		ECFFA4342EC32BBB002D87F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57SJGDPNCC;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "de.davelee.stiman-Watch-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				TEST_TARGET_NAME = "stiman Watch App";
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 26.1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ECFFA3D72EC32BB1002D87F0 /* Build configuration list for PBXProject "stiman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA4202EC32BBB002D87F0 /* Debug */,
+				ECFFA4212EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFFA4222EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA4232EC32BBB002D87F0 /* Debug */,
+				ECFFA4242EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFFA4262EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA4272EC32BBB002D87F0 /* Debug */,
+				ECFFA4282EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFFA4292EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stimanTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA42A2EC32BBB002D87F0 /* Debug */,
+				ECFFA42B2EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFFA42C2EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stimanUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA42D2EC32BBB002D87F0 /* Debug */,
+				ECFFA42E2EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFFA42F2EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman Watch AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA4302EC32BBB002D87F0 /* Debug */,
+				ECFFA4312EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ECFFA4322EC32BBB002D87F0 /* Build configuration list for PBXNativeTarget "stiman Watch AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ECFFA4332EC32BBB002D87F0 /* Debug */,
+				ECFFA4342EC32BBB002D87F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ECFFA3D42EC32BB1002D87F0 /* Project object */;
+}
